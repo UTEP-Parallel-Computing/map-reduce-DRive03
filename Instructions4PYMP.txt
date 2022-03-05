@@ -1,0 +1,1 @@
+In order to choose the amount of threads the code needs to be modified on the countAllWords() function
